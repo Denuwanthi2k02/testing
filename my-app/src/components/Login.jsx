@@ -37,7 +37,7 @@ function Login({ onLogin }) {
             placeholder="Enter email"
           />
         </div>
-        <button type="submit">Sign In</button>
+        <button type="submit">Sign In 123456</button>
       </form>
     </div>
   );
